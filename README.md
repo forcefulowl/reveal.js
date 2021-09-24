@@ -28,4 +28,4 @@ MIT licensed
 Copyright (C) 2011-2021 Hakim El Hattab, https://hakim.se
 
 ## Gavin Link
-(Jump to GitPage)[!https://forcefulowl.github.io/reveal.js/index.html]
+[Jump to GitPage](https://forcefulowl.github.io/reveal.js/index.html)
